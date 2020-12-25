@@ -1,4 +1,6 @@
 
+import 'package:flutter/material.dart';
+import 'package:home_class/model/question.dart';
 
 class QuizApp extends StatefulWidget {
   @override
@@ -14,13 +16,13 @@ class _QuizAppState extends State<QuizApp> {
     Question.name("The Supreme law of the land is the Constitution.", true),
     Question.name(
         "The two rights in the Declaration of Independence are:"
-        "  \n Life  "
-        "  \n Pursuit of happiness.",
+            "  \n Life  "
+            "  \n Pursuit of happiness.",
         true),
     Question.name("The (U.S.) Constitution has 26 Amendments.", false),
     Question.name(
         "Freedom of religion means:\nYou can practice any religion, "
-        "or not practice a religion.",
+            "or not practice a religion.",
         true),
     Question.name("Journalist is one branch or part of the government.", false),
     Question.name("The Congress does not make federal laws.", false),
@@ -41,10 +43,10 @@ class _QuizAppState extends State<QuizApp> {
       appBar: AppBar(
         title: Text("True Citizen"),
         centerTitle: true,
-       // backgroundColor: Colors.blueGrey,
+        // backgroundColor: Colors.blueGrey,
       ),
 
-     // backgroundColor: Colors.blueGrey,
+      // backgroundColor: Colors.blueGrey,
 
       // We use [Builder] here to use a [context] that is a descendant of [Scaffold]
       //or else [Scaffold.of] will return null
@@ -72,13 +74,13 @@ class _QuizAppState extends State<QuizApp> {
                   height: 120.0,
                   child: Center(
                       child: Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Text(
-                      questionBank[_currentQuestionIndex].questionText,
+                        padding: const EdgeInsets.all(8.0),
+                        child: Text(
+                          questionBank[_currentQuestionIndex].questionText,
 //                      style: TextStyle(fontSize: 16.9,
 //                          color: Colors.white),
-                    ),
-                  )),
+                        ),
+                      )),
                 ),
               ),
               Row(
