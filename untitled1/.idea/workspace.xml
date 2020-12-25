@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d7dce39-d0ff-43d9-8582-83b227197328" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1k5eiklzs3p8mQA8QzD5D5NbbUl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d7dce39-d0ff-43d9-8582-83b227197328" name="Default Changelist" comment="" />
+      <created>1604995016481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604995016481</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1071" height="218" key="GridCell.Tab.0.bottom" timestamp="1604995719932">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="1071" height="218" key="GridCell.Tab.0.bottom/0.23.1536.892@0.23.1536.892" timestamp="1604995321669" />
+    <state width="1071" height="218" key="GridCell.Tab.0.bottom/0.23.1536.894@0.23.1536.894" timestamp="1604995719932" />
+    <state width="1071" height="218" key="GridCell.Tab.0.center" timestamp="1604995719931">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="1071" height="218" key="GridCell.Tab.0.center/0.23.1536.892@0.23.1536.892" timestamp="1604995321668" />
+    <state width="1071" height="218" key="GridCell.Tab.0.center/0.23.1536.894@0.23.1536.894" timestamp="1604995719931" />
+    <state width="1071" height="218" key="GridCell.Tab.0.left" timestamp="1604995719927">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="1071" height="218" key="GridCell.Tab.0.left/0.23.1536.892@0.23.1536.892" timestamp="1604995321667" />
+    <state width="1071" height="218" key="GridCell.Tab.0.left/0.23.1536.894@0.23.1536.894" timestamp="1604995719927" />
+    <state width="1071" height="218" key="GridCell.Tab.0.right" timestamp="1604995719931">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state width="1071" height="218" key="GridCell.Tab.0.right/0.23.1536.892@0.23.1536.892" timestamp="1604995321668" />
+    <state width="1071" height="218" key="GridCell.Tab.0.right/0.23.1536.894@0.23.1536.894" timestamp="1604995719931" />
+    <state x="565" y="53" key="new project wizard" timestamp="1604995693177">
+      <screen x="0" y="23" width="1536" height="894" />
+    </state>
+    <state x="565" y="53" key="new project wizard/0.23.1536.894@0.23.1536.894" timestamp="1604995693177" />
+  </component>
+</project>
